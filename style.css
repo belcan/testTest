@@ -1,0 +1,11 @@
+html {
+    color:rgb(82, 7, 7);
+
+    background-color: rgb(236, 248, 244);
+    text-shadow: 6px 6px 6px #777777;
+}
+p{
+   font-size:250%;
+    color: rgb(76, 23, 173);
+    text-shadow: 4px 4px 5px #777777
+}
